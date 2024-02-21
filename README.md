@@ -2,4 +2,4 @@
 
 ## Circuit design and arduino code to implement a Boost Converter.
 
-A MPPT(Maximum Power Point Tracker) boost converter is a DC-DC converter. ITS LATE ILL FINISH IT IN 2 DAYS (probably) BECAUSE TOMORROW I CANT.
+A MPPT (Maximum Power Point Tracker) boost converter is a DC-DC converter that steps up the input voltage to a higher level. To achieve the best results we use MPPT algorithms to control the PWM (Pulse-Width Modulation) which controls the speed at which the switch (mosfet) opens and closes.  
