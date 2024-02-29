@@ -6,3 +6,5 @@ A MPPT (Maximum Power Point Tracker) boost converter is a DC-DC converter that s
 
 
 ## Setup 
+
+Construct the ciruit as shown in the schematic.
