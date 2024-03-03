@@ -5,8 +5,8 @@ A MPPT (Maximum Power Point Tracker) boost converter is a DC-DC converter that s
 ## Circuit design and components.
 ![schematic](/schematic.png)
 
-Ιn the schematic no arduino was used, however the wiring logic is the same.
-Make sure to use a 22 Ohm resistor that can withstand up to 30 Watts.
+Ιn the schematic no arduino was used, however the wiring logic is the same.  
+Make sure to use a 22 Ohm resistor that can withstand up to 30 Watts.  
 Use jumpers only between the controlers. Use hook-up wires in the rest of the circuit.
 
 ## Setup 
