@@ -11,4 +11,4 @@ Use jumpers only between the controlers. Use hook-up wires in the rest of the ci
 
 ## Setup 
 
-Construct the ciruit as shown in the schematic and upload the code to your arduino.
+Construct the ciruit as shown in the schematic and upload the code file to your arduino.
