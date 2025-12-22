@@ -45,7 +45,7 @@ void loop() {
   float current_diff = current - prev_current;
 
   if(voltage_diff == 0 ) {
-    if(current_diff = 0)
+    if(current_diff == 0)
       return;
     else{
       // Adjust PWM based on the sign of current_diff
